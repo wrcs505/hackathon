@@ -1,0 +1,77 @@
+// markers =
+[
+   {
+     "name": "Chattooga River",
+     "url": "https://en.wikipedia.org/wiki/Chattooga_River",
+     "lat": 34.790334,
+     "lng": -83.248043
+   },
+   {
+     "name": "Cheat River",
+     "url": "https://en.wikipedia.org/wiki/Cheat_River",
+     "lat": 39.498719,
+     "lng": -79.642876
+   },
+   {
+     "name": "French Broad",
+     "url": "https://en.wikipedia.org/wiki/French_Broad_River",
+     "lat": 35.816248,
+     "lng": -82.703258
+   },
+   {
+     "name": "Gauley River",
+     "url": "https://en.wikipedia.org/wiki/Gauley_River",
+     "lat": 38.075627,
+     "lng": -81.067216
+   },
+   {
+     "name": "Green River",
+     "url": "https://en.wikipedia.org/wiki/Green_River_(North_Carolina)",
+     "lat": 35.235312,
+     "lng": -82.346510
+   },
+   {
+     "name": "James River",
+     "url": "https://en.wikipedia.org/wiki/James_River",
+     "lat": 37.798397,
+     "lng": -78.491133
+   },
+    {
+     "name": "New River",
+     "url": "https://en.wikipedia.org/wiki/New_River_(Kanawha_River)",
+     "lat": 38.050325,
+     "lng": -81.113671
+   },
+   {
+     "name": "Watauga River",
+     "url": "https://en.wikipedia.org/wiki/Watauga_River",
+     "lat": 36.363999,
+     "lng": -82.174219
+   },
+ {
+     "name": "Nantahala River",
+     "url": "https://en.wikipedia.org/wiki/Nantahala_River",
+     "lat": 35.332897,
+     "lng": -83.585300
+   },
+ {
+     "name": "Ocoee River",
+     "url": "https://en.wikipedia.org/wiki/Ocoee_River",
+     "lat": 35.035675,
+     "lng":-84.429096
+   },
+ {
+     "name": "Pigeon River",
+     "url": "https://en.wikipedia.org/wiki/Pigeon_River_(Tennessee_%E2%80%93_North_Carolina)",
+     "lat": 35.819364,
+     "lng": -83.146739
+   },
+ {
+     "name": "Russel Fork",
+     "url": "https://en.wikipedia.org/wiki/Russell_Fork",
+     "lat": 37.286290,
+     "lng": -82.293531
+   }
+
+
+]

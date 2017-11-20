@@ -1,0 +1,22 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "description": "whitewater map",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjhelba/map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjhelba/map/issues"
+  },
+  "homepage": "https://github.com/sjhelba/map#readme",
+  "dependencies": {
+    "leaflet": "^1.2.0"
+  }
+}
